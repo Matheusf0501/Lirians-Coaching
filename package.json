@@ -1,0 +1,22 @@
+{
+  "name": "lirians-coaching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheusf0501/Lirians-Coaching.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matheusf0501/Lirians-Coaching/issues"
+  },
+  "homepage": "https://github.com/Matheusf0501/Lirians-Coaching#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
